@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="item_color">#EEEEEE</color>
+    <color name="item_type0_color">#EEEEEE</color>
+    <color name="item_type1_color">#FDF5E6</color>
+    <color name="item_type2_color">#FFF5EE</color>
+    <color name="item_type3_color">#F5F5F5</color>
+</resources>
